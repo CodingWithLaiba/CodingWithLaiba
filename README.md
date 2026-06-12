@@ -1,5 +1,7 @@
-# 💫 About Me:
-👋 Hi, I'm Laiba Ijaz<br>💻 Frontend Developer | Aspiring Software Engineer<br><br>🚀 Passionate about building modern, responsive & user centric web applications<br><br>🎯 Specialized in React.js, JavaScript (ES6+) & modern frontend development<br>⚙️ Experienced with PHP, Laravel, MySQL & REST APIs<br>🎨 Strong focus on UI/UX, clean code & performance optimization<br>🔄 Skilled in developing interactive interfaces & real world web apps<br>🛠️ Tech stack: HTML5, CSS3, JavaScript, jQuery, React, Tailwind, Bootstrap<br>🔧 Tools: Git, GitHub, VS Code<br><br>🌱 Currently learning software architecture, system design & full-stack development<br>💡 Always exploring new technologies & solving real-world problems
+<h1 align="start">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Laiba+Ijaz☺️&color=EEF527" />
+</h1>
+<br>💻 Frontend Developer | Aspiring Software Engineer<br><br>🚀 Passionate about building modern, responsive & user centric web applications<br><br>🎯 Specialized in React.js, JavaScript (ES6+) & modern frontend development<br>⚙️ Experienced with PHP, Laravel, MySQL & REST APIs<br>🎨 Strong focus on UI/UX, clean code & performance optimization<br>🔄 Skilled in developing interactive interfaces & real world web apps<br>🛠️ Tech stack: HTML5, CSS3, JavaScript, jQuery, React, Tailwind, Bootstrap<br>🔧 Tools: Git, GitHub, VS Code<br><br>🌱 Currently learning software architecture, system design & full-stack development<br>💡 Always exploring new technologies & solving real-world problems
 
 
 ## 🌐 Socials:
