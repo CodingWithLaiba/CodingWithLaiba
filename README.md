@@ -1,32 +1,219 @@
-<h1 align="start">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Laiba+Ijaz☺️&color=EEF527" />
-</h1>
-<br>💻 Frontend Developer | Aspiring Software Engineer<br><br>🚀 Passionate about building modern, responsive & user centric web applications<br><br>🎯 Specialized in React.js, JavaScript (ES6+) & modern frontend development<br>⚙️ Experienced with PHP, Laravel, MySQL & REST APIs<br>🎨 Strong focus on UI/UX, clean code & performance optimization<br>🔄 Skilled in developing interactive interfaces & real world web apps<br>🛠️ Tech stack: HTML5, CSS3, JavaScript, jQuery, React, Tailwind, Bootstrap<br>🔧 Tools: Git, GitHub, VS Code<br><br>🌱 Currently learning software architecture, system design & full-stack development<br>💡 Always exploring new technologies & solving real-world problems
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!--   LAIBA IJAZ · MERN STACK DEVELOPER · GITHUB PROFILE README   -->
+<!--   Keywords: MERN Stack Developer, Full-Stack Developer, React  -->
+<!--   Developer, Node.js, MongoDB, Express.js, Laravel, Pakistan   -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1474381871872741379) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/laibaijaz881) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laiba-ijaz52422) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32588308) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@LaibaIjaz-fz5ze) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laibaijaz904@gmail.com) 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,30:2d0a4e,70:4a1268,100:1a0033&height=220&section=header&text=Hi%2C%20I'm%20Laiba%20Ijaz%20%F0%9F%91%8B&fontSize=42&fontColor=F5D742&fontAlignY=42&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Engineer&descColor=E8C9F0&descSize=18&descAlignY=64&animation=fadeIn" alt="Laiba Ijaz - MERN Stack Developer GitHub Profile Header" />
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat-square&logo=openstack&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat-square&logo=react) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=flat-square&logo=SemanticUIReact&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat-square&logo=testing-library&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=CodingWithLaiba&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=CodingWithLaiba&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=CodingWithLaiba&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodingWithLaiba&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=900&color=F5D742&center=true&vCenter=true&width=680&height=40&lines=const+laiba+%3D+new+MERNStackDeveloper()%3B;MongoDB+%E2%80%A2+Express.js+%E2%80%A2+React.js+%E2%80%A2+Node.js;Also+building+with+PHP+%2B+Laravel+%2B+MySQL;Open+to+MERN+%26+Full-Stack+opportunities+%F0%9F%92%BC" alt="Typing animation - MERN stack developer skills" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CodingWithLaiba&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
-### 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=CodingWithLaiba&theme=tokyo-night)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-laibaijaz.vercel.app-F5D742?style=for-the-badge&labelColor=2d0a4e)](https://laibaijaz.vercel.app/)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=laibabilds&style=for-the-badge&color=F5D742&label=Profile+Views&labelColor=2d0a4e)](https://github.com/CodingWithLaiba)
+&nbsp;
+[![Open to Work](https://img.shields.io/badge/💼_Open_to-MERN_%26_Full--Stack_Roles-F5D742?style=for-the-badge&labelColor=2d0a4e)](https://linkedin.com/in/laiba-ijaz52422)
+&nbsp;
+[![Email](https://img.shields.io/badge/✉️_Say_Hello-laibaijaz904@gmail.com-F5D742?style=for-the-badge&labelColor=2d0a4e)](mailto:laibaijaz904@gmail.com)
+
+</div>
+
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=laibabilds&icon=0&color=blue)](https://visitcount.itsvg.in)
 
+## `{ whoami }`
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```js
+/**
+ * ┌────────────────────────────────────────────────────┐
+ * │   Laiba Ijaz  —  MERN Stack Developer               │
+ * └────────────────────────────────────────────────────┘
+ */
+
+const laiba = {
+  role        : "MERN Stack Developer | Full-Stack Engineer",
+  location    : "Pakistan 🇵🇰",
+  stack       : ["MongoDB", "Express.js", "React.js", "Node.js"],
+  alsoBuildsWith: ["PHP", "Laravel", "MySQL", "REST APIs"],
+
+  strengths   : ["End-to-end app development", "Clean code", "UI/UX sense"],
+  currentlyLearning : ["Software Architecture", "System Design", "Full-Stack Dev"],
+
+  mindset     : "Every interface should feel effortless to use.",
+  status      : "Open to MERN & Full-Stack opportunities 🚀",
+};
+
+export default laiba;
+```
+
+<br/>
+
+---
+
+## `{ tech_stack }`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**⚛️ Frontend**
+
+```
+React.js          ████████████
+JavaScript (ES6+) ████████████
+HTML5 · CSS3      ████████████
+Tailwind CSS       ███████████░
+Bootstrap          ██████████░░
+jQuery             █████████░░░
+Sass               █████████░░░
+Vue.js             ███████░░░░░
+```
+
+</td>
+<td width="33%" valign="top">
+
+**🔧 Backend & Database**
+
+```
+Node.js             ██████████░░
+Express.js          ██████████░░
+MongoDB             █████████░░░
+PHP                 ███████████░
+Laravel              ██████████░░
+MySQL                ██████████░░
+REST APIs            ██████████░░
+```
+
+</td>
+<td width="33%" valign="top">
+
+**🧰 Tools & Platforms**
+
+```
+Git & GitHub       ████████████
+VS Code            ████████████
+Figma              █████████░░░
+Vercel / Netlify   ██████████░░
+Firebase           ████████░░░░
+Docker             ██████░░░░░░
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## `{ github_analytics }`
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.shion.dev/api?username=CodingWithLaiba&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=false&bg_color=1a0033&title_color=F5D742&icon_color=E8C9F0&text_color=E8C9F0&border_radius=12" alt="Laiba Ijaz GitHub Stats" />
+&nbsp;
+<img height="165em" src="https://streak-stats.demolab.com/?user=CodingWithLaiba&theme=radical&hide_border=true&background=1a0033&ring=F5D742&fire=E8C9F0&currStreakLabel=F5D742&border_radius=12" alt="GitHub Streak Stats" />
+
+<br/><br/>
+
+<img height="150em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=CodingWithLaiba&theme=radical&hide_border=true&include_all_commits=true&layout=compact&bg_color=1a0033&title_color=F5D742&text_color=E8C9F0&border_radius=12" alt="Most Used Languages" />
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodingWithLaiba&bg_color=1a0033&color=F5D742&line=E8C9F0&point=F5D742&area=true&hide_border=true&radius=8&custom_title=Laiba's%20Contribution%20Graph" alt="Contribution Graph" />
+
+</div>
+
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=CodingWithLaiba&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+</details>
+
+<br/>
+
+---
+
+## `{ right_now }`
+
+<div align="center">
+
+| | |
+|:--|:--|
+| 🔨 &nbsp;**Building** | Full-stack apps with MongoDB, Express, React & Node.js |
+| 📖 &nbsp;**Learning** | Software architecture, system design, scalable backend design |
+| 🎯 &nbsp;**Goal** | MERN / Full-Stack developer role on a product team |
+| 💬 &nbsp;**Ask me about** | MERN stack, React.js, JavaScript, PHP & Laravel |
+| ⚡ &nbsp;**Fun fact** | I sketch UI ideas before I ever open the code editor |
+
+</div>
+
+<br/>
+
+---
+
+## `{ connect }`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a0033?style=for-the-badge&logo=vercel&logoColor=F5D742)](https://laibaijaz.vercel.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laiba-ijaz52422)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laibaijaz904@gmail.com)
+&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@LaibaIjaz-fz5ze)
+&nbsp;
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32588308)
+
+<br/><br/>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/laibaijaz881)
+&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/1474381871872741379)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:2d0a4e,100:1a0033&height=100&section=footer" alt="Footer wave" />
+<sub><b>Laiba Ijaz</b> &nbsp;|&nbsp; MERN Stack Developer &nbsp;|&nbsp; MongoDB · Express.js · React.js · Node.js</sub>
+
+</div>
+
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!--                          END OF FILE                            -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
